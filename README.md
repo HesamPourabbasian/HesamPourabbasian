@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Hesam Pourabbasian
 
-I'm a passionate **Computer Science student** based in **Tabriz, Iran**, focused on crafting innovative and efficient **backend solutions**. With a strong foundation in **PHP** and **Laravel**, I bring both enthusiasm and expertise to the world of backend development, **continuous deployment (CD)**, and modern web technologies.
+I'm a passionate **Computer Science student** based in **Tabriz, Iran**, focused on crafting innovative and efficient **backend solutions**. With a strong foundation in **Python** and **Django**, I bring both enthusiasm and expertise to the world of backend development, **continuous deployment (CD)**, and modern web technologies.
 
 ---
 
@@ -12,7 +12,7 @@ My journey in tech began with frontend development, where I learned to create **
 * Building **scalable applications**
 * Optimizing performance with clean and efficient code
 
-I specialize in **PHP** and **Laravel**, and I'm passionate about building backend systems that **power modern web applications**.
+I specialize in **Python** and **Django**, and I'm passionate about building backend systems that **power modern web applications**.
 
 Alongside backend work, I have a growing interest in:
 
@@ -25,7 +25,7 @@ Alongside backend work, I have a growing interest in:
 ## 🛠️ My Expertise
 
 * **Backend Development**
-  Proficient in PHP & Laravel – building RESTful APIs, database-driven applications, and scalable systems.
+  Proficient in Python & Django – building RESTful APIs, database-driven applications, and scalable systems.
 
 * **Continuous Deployment (CD)**
   Experience in setting up CI/CD pipelines for smooth and automated deployments.
@@ -46,13 +46,13 @@ Alongside backend work, I have a growing interest in:
 
 ## 🛤️ My Journey
 
-After starting with frontend development, I found a deep interest in how systems work **under the hood**. Moving to **Laravel and PHP** was a turning point, allowing me to architect efficient, **data-driven applications**. My interest in **continuous deployment** and **cybersecurity** pushes me to build solutions that are not just powerful, but also **secure and reliable**.
+After starting with frontend development, I found a deep interest in how systems work **under the hood**. Moving to **Django and Python** was a turning point, allowing me to architect efficient, **data-driven applications**. My interest in **continuous deployment** and **cybersecurity** pushes me to build solutions that are not just powerful, but also **secure and reliable**.
 
 ---
 
 ## 🤝 Get in Touch
 
-I’m open to opportunities in **PHP/Laravel development**, especially roles involving backend architecture, CI/CD, or application security.
+I’m open to opportunities in **Python/Django development**, especially roles involving backend architecture, CI/CD, or application security.
 
 📧 **Email**: [hesampourabbasian6@gmail.com](mailto:hesampourabbasian6@gmail.com)
 
