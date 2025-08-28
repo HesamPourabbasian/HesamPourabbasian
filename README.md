@@ -36,9 +36,6 @@ Alongside backend work, I have a growing interest in:
 * **Web Technologies**
   Familiar with modern web architectures, REST APIs, and frontend-backend integration.
 
-* **Cybersecurity Enthusiast**
-  Actively learning best practices in application security and secure coding.
-
 * **Problem-Solving**
   Passionate about tackling complex challenges with clean, maintainable code.
 
