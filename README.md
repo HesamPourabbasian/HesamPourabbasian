@@ -17,7 +17,6 @@ I specialize in **Python** and **Django**, and I'm passionate about building bac
 Alongside backend work, I have a growing interest in:
 
 * **Continuous Deployment (CD)** pipelines
-* **Cybersecurity** and secure coding practices
 * Staying up-to-date with the latest in **web technologies**
 
 ---
