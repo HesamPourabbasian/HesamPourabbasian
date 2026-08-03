@@ -1,6 +1,6 @@
 # Hi, I'm Hesam Pourabbasian
 
-I am a Computer Science student based in Tabriz, Iran. I specialize as a front-end developer, with primary expertise in **Vue.js** and **Tailwind CSS**. I also work with **JavaScript**, **React.js**, **Python**, **PHP**, and have basic experience with **WordPress**.
+I am a Computer Science student based in Tabriz, Iran. I specialize as a front-end developer, with primary expertise in **JavaScript**,  **Vue.js** and **Tailwind CSS**. I also work with **React.js**, **Python**, **PHP**, and have basic experience with **WordPress**.
 
 ## Tech Stack
 
