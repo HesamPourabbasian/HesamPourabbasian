@@ -16,6 +16,6 @@ I am a Computer Science student based in Tabriz, Iran. I specialize as a front-e
 
 - 🎓 Computer Science student in Tabriz, Iran  
 - 💻 Front-end developer focused on modern web interfaces  
-- 🛠️ Comfortable working with JavaScript, Vue.js, React.js, Tailwind CSS, Python, PHP, and WordPress  
+- 🛠️ Comfortable working with JavaScript, Vue.js, Tailwind CSS, Python 
 
 Feel free to explore my repositories and reach out for collaboration.
