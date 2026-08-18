@@ -1,6 +1,6 @@
 # Hesam Pourabbasian
 
-Computer Science student based in Tabriz, Iran. Front-end developer specializing in modern web interfaces, with primary expertise in **JavaScript**, **Vue.js**, **Nuxt**, and **Tailwind CSS**. Additional experience with **React.js**.
+Computer Science student based in Tabriz, Iran. Front-end developer working with modern web interfaces, primarily using **JavaScript**, **Vue.js**, **Nuxt**, and **Tailwind CSS**. Also works with **React.js**.
 
 ## Tech Stack
 
@@ -13,7 +13,7 @@ Computer Science student based in Tabriz, Iran. Front-end developer specializing
 ## About Me
 
 - Computer Science student located in Tabriz, Iran  
-- Front-end developer focused on building clean, responsive, and maintainable user interfaces  
-- Proficient in JavaScript, Vue.js, Nuxt, Tailwind CSS, and React.js  
+- Front-end developer focused on building clean and responsive user interfaces  
+- Works with JavaScript, Vue.js, Nuxt, Tailwind CSS, and React.js  
 
-I welcome opportunities to collaborate on projects and invite you to explore my repositories. Please feel free to reach out for professional discussions or joint work.
+I welcome opportunities to collaborate on projects and invite you to explore my repositories. Please feel free to reach out for discussions or joint work.
